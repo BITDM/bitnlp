@@ -1,0 +1,17 @@
+# Site settings
+title: 自然语言理解初步@北京理工大学
+email: simontangbit@bit.edu.cn
+description: "自然语言理解初步的相关材料"
+baseurl: ""
+url: "http://bitnlp.github.io"
+# github_username:  bitdm
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
