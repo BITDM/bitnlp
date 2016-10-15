@@ -1,9 +1,9 @@
 # Site settings
-title: 数据挖掘@北京理工大学
+title: 自然语言理解初步@北京理工大学
 email: simontangbit@bit.edu.cn
-description: "数据挖掘的相关材料"
+description: "自然语言理解课程的相关材料"
 baseurl: ""
-url: "http://bitdm.github.io"
+url: "http://bitdm.github.io/nlp"
 # github_username:  bitdm
 
 # Build settings
